@@ -1,7 +1,7 @@
 # Grab-REST-API
 
 [![N|Solid](https://i.imgur.com/QgddEoe.png)](https://www.grab.com.ar/)
-Base de datos serverless de la aplicacion Grub realizada para la hackathon de San Cristobal Seguros en la edicion Campus Party 2018 en Buenos Aires.
+Base de datos serverless de la aplicación Grab realizada para la hackathon de San Cristóbal Seguros en la edición Campus Party 2018 en Buenos Aires.
 
 Endpoints de la api:
 
